@@ -1,1 +1,1 @@
-web: gunicorn bellybutton-app-pbs.app:app
+web: gunicorn bellybutton.app:app
